@@ -1,0 +1,14 @@
+Project Title:
+HCI Assignment 2 Beta Prototype – Local Organisation Service Kiosk
+
+Local Organisation Name:
+Subang Jaya Community Centre
+
+Purpose of the Interface:
+This interface is designed to help users easily access information about a local organisation, including its services, contact details, and basic organisation information. The prototype uses simple navigation buttons, visual feedback, and audio feedback to improve user interaction.
+
+Visual and Audio Techniques Used:
+The prototype uses visual buttons, hover effects, different background colours for different pages, readable text labels, and simple screen navigation. It also includes an optional click sound effect when users press a button.
+
+API Used:
+OpenGL with Python, supported by Pygame for window creation, input handling, and audio playback.
